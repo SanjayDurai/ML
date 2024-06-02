@@ -5,3 +5,4 @@ yfinance
 keras
 streamlit
 scikit-learn
+matplotlib
