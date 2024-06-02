@@ -4,3 +4,4 @@ pandas
 yfinance
 keras
 streamlit
+scikit-learn
