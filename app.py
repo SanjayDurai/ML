@@ -6,7 +6,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import os
 
-model_path = os.path.join(os.path.dirname(__file__), 'Stock_predictionModel.keras')
+model_path = 'Stock_predictionModel.keras'
 model = load_model(model_path)
 
 
